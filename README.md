@@ -1,0 +1,2 @@
+# Python mini projects
+This repository consist of different mini projects that make use of Python, Tkinter, Pandas data frame, Sqlite(database), matplotlib library and a small weather app that uses the Airnow Api. 
